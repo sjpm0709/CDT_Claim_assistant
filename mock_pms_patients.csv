@@ -1,0 +1,4 @@
+Name,DOB,Gender,Phone,Address,Relationship,Subscriber Name,Subscriber ID,Tooth Number,Surface,Procedure,Date of Service,Clinical Notes,Fee
+Alice Johnson,12-04-1985,Female,555-123-4567,"123 Maple Street, Springfield",Single,Robert Johnson,1,14,MO,Composite filling for molar,21-07-2025,Patient presented with decay on tooth 14. Composite restoration performed on mesial and occlusal surfaces.,500
+Brian Smith,22-09-1990,Male,555-987-6543,"456 Oak Avenue, Riverdale",Single,Diana Smith,2,30,DO,Amalgam filling for posterior tooth,20-07-2025,Cavity on distal and occlusal of tooth 30. Filled with amalgam.,650
+Cynthia Lee,03-02-1975,Female,555-456-7890,"789 Birch Road, Lakeside",Single,Jason Lee,3,7,F,Anterior composite restoration,19-07-2025,Fracture on facial surface of tooth 7. Composite used to restore.,125

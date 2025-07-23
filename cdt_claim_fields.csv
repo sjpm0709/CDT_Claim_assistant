@@ -1,0 +1,41 @@
+Field Number,Field Name,Instructions
+1,Type of Transaction,"Indicate the type of transaction: Statement of Actual Services, Preauthorization, or Request for Predetermination."
+2,Predetermination/Preauthorization Number,Enter the predetermination or preauthorization number if applicable.
+3,Company/Plan Name,Enter the name of the dental benefits company.
+4,Other Dental or Medical Coverage,"Check Yes or No. If Yes, complete items 5 to11."
+5,Subscriber Name (Other Coverage),"Enter full name (Last, First, Middle Initial) of the person with other coverage."
+6,Date of Birth (Other Coverage),Use format MM/DD/YYYY.
+7,Gender (Other Coverage),Check Male or Female.
+8,Subscriber ID (Other Coverage),Enter the subscriber ID number of the other plan.
+9,Plan/Group Number (Other Coverage),Enter the group number for the other plan.
+10,Plan Name (Other Coverage),Enter the name of the other insurance plan.
+11,Employer (Other Coverage),Enter the employer name of the person with other coverage.
+12,Patient Name,"Enter full name (Last, First, Middle Initial) of the patient."
+13,Relationship to Subscriber,"Check one: Self, Spouse, Dependent, or Other."
+14,Patient Date of Birth,Use format MM/DD/YYYY.
+15,Patient Gender,Check Male or Female.
+16,Patient Address,"Enter patients mailing address (street, city, state, ZIP)."
+17,Subscriber Name (This Coverage),"Enter full name (Last, First, Middle Initial) of the subscriber."
+18,Subscriber ID Number,Enter the subscriber ID number of this plan.
+19,Patient's School/Employer (If applicable),provide the name of patients school or employer.
+20,Record of Treatment Dates,Enter the treatment dates being claimed.
+21,Diagnosis Code(s),Enter the ICD-10 diagnosis code(s) related to the services rendered.
+22,Diagnosis Pointer,Use letters A to D to relate procedures to diagnosis codes entered in field 21.
+23,Tooth Number/Letter,Enter the tooth number(s) or letter(s) treated. Use FDI or Universal Numbering System.
+24,Procedure Code,Enter the CDT Code that describes the service performed.
+25,Tooth Surface,"If applicable, enter the surfaces treated: M, O, D, B, L, I, etc."
+26,Fee,Enter the fee for each procedure.
+27,Other Fee(s),List any additional fees (e.g.  lab fees) not included in the main fee.
+28,Total Fee,Enter the total of all procedure fees.
+29,Remarks,"Use for clinical notes, explanations, or other information supporting the claim."
+30,Authorized Signature,"Signature of the patient or patients guardian, if required."
+31,Treating Dentist and License Number,Enter the name and license number of the treating dentist.
+32,Address of Treating Dentist,Enter full address including ZIP code.
+33,NPI Number,Enter the NPI (National Provider Identifier) of the treating dentist.
+34,Additional Provider ID,"If applicable, provide the treating dentists ID assigned by the payer."
+35,Billing Dentist or Entity,Enter name and information of the billing dentist or billing entity.
+36,Address,Enter full address of the billing dentist or entity.
+37,NPI Number (Billing),Enter the NPI of the billing dentist or entity.
+38,License Number (Billing),Enter the state license number of the billing dentist or entity.
+39,Additional Provider ID (Billing),"If applicable, provide the billing dentists ID assigned by the payer."
+40,Phone Number,Enter contact phone number of the billing party.
