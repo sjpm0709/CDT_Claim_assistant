@@ -5,8 +5,8 @@ from openai import OpenAI
 import mock_pms
 
 # --- Load Data ---
-cdt_df = pd.read_csv("C:\\Users\\satis\\PycharmProjects\\Complete_workflow\\CDT_AI_Training_100_New_Rows.csv")
-claim_df = pd.read_csv("C:\\Users\\satis\\PycharmProjects\\Complete_workflow\\cdt_claim_fields.csv")
+cdt_df = pd.read_csv("CDT_AI_Training_100_New_Rows.csv")
+claim_df = pd.read_csv("cdt_claim_fields.csv")
 patients = mock_pms.get_mock_patients()
 
 api_key = st.secrets.get("OPENROUTER_API_KEY")
